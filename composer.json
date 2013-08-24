@@ -1,0 +1,17 @@
+{
+    "name": "midnight/mosaic",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rudolph Gottesheim",
+            "email": "r.gottesheim@loot.at"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Midnight\\Mosaic\\": "lib/"
+        }
+    }
+}
